@@ -1,0 +1,5 @@
+{
+    "xgboost_validation_weighted_f1_score": 0.9463850089269877,
+    "xgboost_validation_weighted_precision": 0.9472326012857575,
+    "xgboost_validation_weighted_recall": 0.9469387755102041
+}
