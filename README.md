@@ -12,7 +12,9 @@ Kaggle competition - 2:
   - here we did use IsolatedForest model for mono class classification and got F1 score of 76%
 
 ⚙️ Setup and Run Instructions
+
 Follow the steps below to set up the environment and run the soil type classification project:
+
 📦 1. Clone the Repository
 
 📑 2. Install Dependencies
