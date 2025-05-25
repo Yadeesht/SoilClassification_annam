@@ -13,7 +13,7 @@ Kaggle competition - 2:
 
 ⚙️ Setup and Run Instructions
 
-Follow the steps below to set up the environment and run the soil type classification project:
+Follow the steps below to set up the environment and run the soil type classification project: 
 
 📦 1. Clone the Repository
 
